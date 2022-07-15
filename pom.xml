@@ -13,6 +13,7 @@
 	<version>0.0.2-SNAPSHOT</version>
 	<name>SpringBootLearnApp</name>
 	<description>Demo project for Spring Boot</description>
+	<packaging>war</packaging>
 	<properties>
 		<java.version>1.8</java.version>
 		<sonar.host.url>http://18.142.226.247:9000/</sonar.host.url>
