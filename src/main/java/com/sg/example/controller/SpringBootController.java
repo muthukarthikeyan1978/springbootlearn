@@ -17,7 +17,7 @@ public class SpringBootController {
     private SpringBootService service;
     @GetMapping("/hi")
     public String sayHello(){
-        return "SpringBoot Learning11.........";
+        return "SpringBoot Learning.........";
     }
 
     @GetMapping("/students")
